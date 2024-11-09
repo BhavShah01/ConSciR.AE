@@ -1,11 +1,17 @@
 Package: ConSciR.AE
 Type: Package
-Title: What the Package Does (Title Case)
+Title: ConSciR.AE To help with acoustic emission data
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Authors@R: c(
+    person("Bhavesh", "Shah", , "bhaveshshah01@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-8673-0589"))
+  )
+Maintainer: Bhavesh Shah <bhaveshshah01@gmail.com>
+Description: Tools to help with working with acoustic emission monitoring data. 
+    Part of the ConSciR toolbox.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/BhavShah01/ConSciR.AE, https://bhavshah01.github.io/ConSciR.AE/
+BugReports: https://github.com/BhavShah01/ConSciR.AE/issues
+RoxygenNote: 7.3.2
