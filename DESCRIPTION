@@ -15,3 +15,4 @@ LazyData: true
 URL: https://github.com/BhavShah01/ConSciR.AE, https://bhavshah01.github.io/ConSciR.AE/
 BugReports: https://github.com/BhavShah01/ConSciR.AE/issues
 RoxygenNote: 7.3.2
+Config/Needs/website: rmarkdown
